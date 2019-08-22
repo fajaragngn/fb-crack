@@ -1,5 +1,5 @@
 
-$ pkg update
+<h3>$ pkg update</h3>
 $ pkg upgrade
 $ pkg install python2
 $ pip2 install requests
